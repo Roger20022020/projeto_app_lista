@@ -7,7 +7,7 @@
 	echo '<pre>';
 	print_r($tarefas);
 	echo '</pre>';
-	*/
+	*/ Apenas para teste
 
 ?>
 
